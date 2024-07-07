@@ -1,2 +1,2 @@
 # Portfolio-Management-GWP1-Fama-French-Factor-Model-Comparison
-Compare FF3 and FF5 using daily data over 3 years, exploring the impact of additional factors on asset pricing models.
+This repository contains code and analysis for comparing the performance of the Fama-French 3-factor model (FF3) and the 5-factor model (FF5) using daily data over a 3-year period. The project explores how additional factors like Small Minus Big (SMB), High Minus Low (HML), Conservative Minus Aggressive (CMA), and Robust Minus Weak (RMW) impact portfolio management and asset pricing models.
